@@ -1,4 +1,3 @@
---This selects the entire table
 Select *
 From Recalls
 
